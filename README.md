@@ -13,3 +13,6 @@ I believe that users know what's best for them, that's why I want to give them t
   * mode of transport (how did they get there?)  
  <!-- end of the list -->
 In order for users to be able to post a trip story they will have the fill only the title and at least another field. So, you may have users that want to share only some photos and the names of the places they've been to, some who may not want even to name those places, some who may want to share a full review of their experience, etc.
+![](doc_img/image11.png)  
+![](doc_img/image12.png)  
+![](doc_img/image13.png)  
