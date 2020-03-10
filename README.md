@@ -5,7 +5,7 @@ I want to build a platform dedicated to travelling, where people can share as mu
 ## How does it work?
 Users can post a so-called trip story which is basically a summary of their journey.  
 I believe that users know what's best for them, that's why I want to give them the option to choose exactly how much they want to share with the world. To achieve this I intend to implement the following solution: a trip story has the following fields:  
-..*title  
+..* title
 ..* images  
 ..* locations (names of the place(s) that the user went to)  
 ..* cost (how much did everything cost)  
